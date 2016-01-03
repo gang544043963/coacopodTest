@@ -10,6 +10,6 @@ s.author       = { "Becomedragon Cheng" => "becomedragonlong@gmail.com" }
 s.platform     = :ios, "7.0"
 s.ios.deployment_target = "7.0"
 s.source       = { :git => "https://github.com/gang544043963/coacopodTest.git", :tag => s.version}
-s.source_files  = 'coacopodTest/*.{h,m}'
+s.source_files  = 'coacopodTest/coacopodTest/*.{h,m}'
 s.requires_arc = true
 end
